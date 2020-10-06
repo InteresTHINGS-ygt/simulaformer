@@ -1,0 +1,31 @@
+October 3:
+New title screen
+
+October 1: Beta Release!
+NEW Slippery mode! You can't stop it (even mid-air) until you collide with a wall!
+NEW Breakable blocks!
+NEW Bouncers!
+NEW Level!
+Climbing bug fixed
+Some colors updated
+
+September 29:
+Touchscreen controls optimized for touchscreen devices.
+
+September 28:
+Touchscreen controls added
+Level 6 completely redesigned because it's cursed! #cursedlevel6
+
+September 27:
+Decorations updated
+Level 6 nerfed again
+
+September 26:
+Level 4 optimized (No more places that you can't enter)
+Level 5 optimized (No longer 90 degrees rotation, don't confuse this with sideways mode)
+Level 6 nerfed
+Debug status removed
+Favicon changed
+
+September 25:
+Simulaformer Alpha released. You may need to click on the screen to start playing. More coming soon!
