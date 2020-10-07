@@ -2,6 +2,7 @@ October 7:
 Collectible gems added.
 Resizable Main Menu screen
 Slippery bug fixed
+Invisible mode added. (BRUTALLY IMPOSSIBLE)
 
 October 3:
 New title screen
