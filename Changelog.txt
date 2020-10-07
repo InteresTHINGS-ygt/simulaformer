@@ -1,9 +1,10 @@
 October 7:
-Collectible gems added
+Collectible gems added.
+Resizable Main Menu screen
+Slippery bug fixed
 
 October 3:
 New title screen
-Checkpoints!
 
 October 1: Beta Release!
 NEW Slippery mode! You can't stop it (even mid-air) until you collide with a wall!
