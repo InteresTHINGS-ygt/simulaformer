@@ -1,3 +1,8 @@
+October 11:
+No more checkpoints! HAHA!
+Experimental maze mode added
+Death screens!
+
 October 7:
 Collectible gems added.
 Resizable Main Menu screen
